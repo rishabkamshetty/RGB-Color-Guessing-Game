@@ -1,0 +1,41 @@
+.square
+{
+    border: 0;
+    border-radius: 5%;
+    width: 30%;
+    float: left;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    transition: all 2s;
+}
+button{
+    outline: none !important;
+}
+#messageDisplay
+{
+    display: inline-block;
+    width: 20%;
+}
+.btn-success
+{
+    transition: all 1s !important;
+}
+#colorDisplay
+{
+    text-transform: uppercase !important;
+    letter-spacing: 1px;
+}
+.bg-header
+{
+    background-color:dimgray;
+}
+.stripe
+{
+    background-color: goldenrod;
+    text-align: center;
+}
+#container
+{
+   margin: 0 auto;
+   max-width: 600px; 
+}
